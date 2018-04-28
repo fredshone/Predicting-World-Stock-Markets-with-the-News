@@ -14,4 +14,4 @@ Work in progress (although it works fine if you have access to the University Co
 2. Sentiment analysis is basic
 3. Requires my SQL server
 
-**Spoiler Alert:** There doesn't look to be astatistically significant link.
+**Spoiler Alert:** There doesn't look to be a statistically significant link.
